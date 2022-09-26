@@ -1,5 +1,5 @@
 # AI-ML
-Machine Learning AI Project
+Machine Learning AI Project - Supervised Image Classification
 
 This project uses images of a cat named Tiny, and images of other cats to train a Supervised Image Classification AI to identify whether a picture fed into it is of "Tiny" or of another cat.
 
